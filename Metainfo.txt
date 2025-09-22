@@ -1,0 +1,11 @@
+Name of Quantlet:    'LPA_LSTM'
+
+Published in:        'Published in: Watt did you expect?'
+
+Description:         'This Quantlet produces the code for adaptive window change detection in an LSTM model.'
+
+Keywords:            'time series, LSTM, LPA, Local Parametric Approach, Adaptive Window'
+
+Author:         Raul Cristian Bag, Stefan Lessmann, Daniel Traian Pele, Wolfgang Karl Härdle
+
+Datafile:            LPA/Simulation/data.csv
