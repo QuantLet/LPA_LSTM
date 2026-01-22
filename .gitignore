@@ -78,3 +78,9 @@ results/
 data/
 output/
 
+.claude
+.sisyphus
+bkp/AGENTS.md
+bkp/CLAUDE.md
+
+bkp/
